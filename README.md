@@ -1,2 +1,0 @@
-# firstassignment
-basic concepts
